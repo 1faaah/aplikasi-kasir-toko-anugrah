@@ -1,4 +1,4 @@
-# Aplikasi Kasir Toko Anugrah
+# Smart Cashier & Inventory Management System for UMKM-Toko Anugrah
 
 ## Description
 A console-based cashier application developed using Java to support
